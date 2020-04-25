@@ -1,0 +1,11 @@
+table {
+    display: inline;
+}
+
+.selected {
+    color: red;
+}
+
+input {
+    width: 2em;
+}
